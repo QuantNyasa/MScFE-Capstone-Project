@@ -1,0 +1,8 @@
+Load the dataset 
+Compute returns 
+Specify an ARMA model in sample 
+Obtain residuals in-sample and out-of-sample 
+Fit the model in-sample, select top 10 models  
+Estimate the variance in-sample for the ten models
+Use the parameters to forecast
+Evaluate 
